@@ -1,6 +1,7 @@
 # Final Submission - Activity4
 
-Website : https://feelin-peachy-rings.softsys.ca/
+Website : https://feelin-peachy-rings.softsys.ca/  
+*Note: The inactive plugins cannot be removed (assuming it has to do with AWS and permissions)*
 
 This repository contains the following documentation:  
 - Project Report
